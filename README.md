@@ -1,9 +1,11 @@
 <!--START_SECTION:waka-->
 ```text
-Rust         3 hrs 3 mins    ██████████████░░░░░░░░░░░   55.98 % 
-TypeScript   1 hr 48 mins    ████████▒░░░░░░░░░░░░░░░░   32.92 % 
-YAML         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Python       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Week: 18 September, 2021 - 24 September, 2021
+
+TypeScript   5 hrs 8 mins    █████████████████▓░░░░░░░   70.88 % 
+Rust         1 hr 46 mins    ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
