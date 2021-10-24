@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 13 October, 2021 - 19 October, 2021
+Week: 17 October, 2021 - 23 October, 2021
 
-TypeScript   13 hrs 54 mins  ████████████▒░░░░░░░░░░░░   49.25 % 
-Rust         11 hrs 25 mins  ██████████░░░░░░░░░░░░░░░   40.47 % 
-Python       1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-SQL          35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TypeScript   15 hrs 45 mins  ███████████████░░░░░░░░░░   59.79 % 
+Rust         8 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   34.04 % 
+Other        50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
