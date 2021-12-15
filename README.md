@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
 TypeScript   15 hrs 45 mins  ███████████████░░░░░░░░░░   59.79 % 
 Rust         8 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   34.04 % 
