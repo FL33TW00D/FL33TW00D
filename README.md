@@ -1,3 +1,4 @@
+⏱ Weekly Development Time
 <!--START_SECTION:waka-->
 ```text
 Week: 09 December, 2021 - 15 December, 2021
