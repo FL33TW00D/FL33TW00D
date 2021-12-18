@@ -1,7 +1,7 @@
 ⏱ Weekly Development Time
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2021 - 16 December, 2021
+Week: 11 December, 2021 - 17 December, 2021
 
 TypeScript   15 hrs 45 mins  ███████████████░░░░░░░░░░   59.79 % 
 Rust         8 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   34.04 % 
