@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
 Rust         20 hrs 22 mins  ███████████████████░░░░░░   76.44 % 
 TypeScript   1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
