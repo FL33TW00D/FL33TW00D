@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2022 - 17 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
-Rust         20 hrs 22 mins  ███████████████████░░░░░░   76.44 % 
-TypeScript   1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Python       57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-VimL         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Docker       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Python       5 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   39.88 % 
+Rust         5 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.40 % 
+TypeScript   2 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Other        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 <!--END_SECTION:waka-->
