@@ -1,8 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 14 hrs 6 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 Python       5 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   39.88 % 
 Rust         5 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.40 % 
