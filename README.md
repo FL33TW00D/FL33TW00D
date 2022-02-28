@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 25 February, 2022
 
-Python       5 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   39.88 % 
-Rust         5 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.40 % 
-TypeScript   2 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Other        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+```text
+From: 21 February 2022 - To: 27 February 2022
+
+Rust         7 hrs 8 mins    ███████████████████▓░░░░░   79.23 %
+TypeScript   1 hr 34 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
+Python       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+C#           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
+
 <!--END_SECTION:waka-->
