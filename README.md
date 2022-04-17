@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 April 2022 - To: 15 April 2022
+From: 09 April 2022 - To: 16 April 2022
 
-Rust         4 hrs 24 mins   ██████████░░░░░░░░░░░░░░░   40.32 %
-Markdown     1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-Other        1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+Rust         4 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.98 %
+YAML         3 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
+Other        1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
 ```
 
 <!--END_SECTION:waka-->
