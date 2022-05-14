@@ -3,6 +3,8 @@
 ```text
 From: 06 May 2022 - To: 13 May 2022
 
+Total Time: 29 hrs 38 mins
+
 Rust              17 hrs 23 mins  ██████████████▓░░░░░░░░░░   58.16 %
 TypeScript        8 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.49 %
 YAML              56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
