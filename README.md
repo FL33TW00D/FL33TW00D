@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2022 - To: 15 May 2022
+From: 09 May 2022 - To: 16 May 2022
 
-Total Time: 30 hrs 33 mins
+Total Time: 29 hrs 43 mins
 
-Rust              17 hrs 11 mins  ██████████████░░░░░░░░░░░   55.93 %
-TypeScript        9 hrs 41 mins   ████████░░░░░░░░░░░░░░░░░   31.52 %
-YAML              56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-TOML              38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Protocol Buffer   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Markdown          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Rust              15 hrs 18 mins  ████████████▓░░░░░░░░░░░░   50.71 %
+TypeScript        9 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   31.21 %
+YAML              2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+TOML              39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Markdown          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Other             27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
