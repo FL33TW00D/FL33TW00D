@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 July 2022 - To: 09 July 2022
+From: 03 July 2022 - To: 10 July 2022
 
-Total Time: 32 hrs 45 mins
+Total Time: 36 hrs 29 mins
 
-TypeScript        16 hrs 2 mins   ████████████▒░░░░░░░░░░░░   48.99 %
-Rust              13 hrs 33 mins  ██████████▒░░░░░░░░░░░░░░   41.38 %
-YAML              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-TOML              32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-SQL               25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Bash              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+TypeScript        16 hrs 14 mins  ███████████░░░░░░░░░░░░░░   44.52 %
+Rust              12 hrs 57 mins  █████████░░░░░░░░░░░░░░░░   35.51 %
+Python            3 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+YAML              1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+TOML              42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Bash              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
