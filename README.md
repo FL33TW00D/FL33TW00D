@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 August 2022 - To: 21 August 2022
+From: 15 August 2022 - To: 22 August 2022
 
-Total Time: 13 hrs 24 mins
+Total Time: 14 hrs 47 mins
 
-Rust              12 hrs 37 mins  ███████████████████████▓░   94.19 %
-YAML              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Protocol Buffer   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-TOML              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Markdown          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-conf              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Rust              13 hrs 39 mins  ███████████████████████░░   92.30 %
+YAML              46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+TOML              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Protocol Buffer   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+conf              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
