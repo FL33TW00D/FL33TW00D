@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 August 2022 - To: 30 August 2022
+From: 24 August 2022 - To: 31 August 2022
 
-Total Time: 37 hrs 41 mins
+Total Time: 39 hrs 30 mins
 
-Rust              29 hrs 8 mins   ███████████████████▒░░░░░   77.00 %
-YAML              2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Python            2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Docker            2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-TOML              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Markdown          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Rust              30 hrs 34 mins  ███████████████████▒░░░░░   77.08 %
+YAML              2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Python            2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Docker            2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+TOML              36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Markdown          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
