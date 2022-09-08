@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 05 September 2022
+From: 30 August 2022 - To: 06 September 2022
 
-Total Time: 43 hrs 7 mins
+Total Time: 44 hrs 34 mins
 
-Rust              36 hrs 41 mins  █████████████████████░░░░   84.63 %
-Python            3 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-TOML              54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Protocol Buffer   43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Markdown          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Vim Script        16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Rust              37 hrs 34 mins  █████████████████████░░░░   84.11 %
+Python            3 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+TOML              1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Protocol Buffer   41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Markdown          13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Vim Script        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
