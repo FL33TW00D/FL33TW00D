@@ -1,16 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 05 September 2022 - To: 12 September 2022
 
-Total Time: 39 hrs 11 mins
+Total Time: 34 hrs 37 mins
 
-Rust              32 hrs 8 mins   ████████████████████▒░░░░   80.92 %
-TOML              2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Python            1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Docker            1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-YAML              1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Other             31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Rust              27 hrs 59 mins  ████████████████████░░░░░   79.72 %
+TOML              3 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+YAML              1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Docker            1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Other             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
