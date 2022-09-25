@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 September 2022 - To: 22 September 2022
+From: 16 September 2022 - To: 23 September 2022
 
-Total Time: 26 hrs 53 mins
+Total Time: 29 hrs 12 mins
 
-Rust              19 hrs 56 mins  ██████████████████░░░░░░░   71.56 %
-Python            2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-TOML              2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Markdown          1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Other             58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Rust              24 hrs 17 mins  ████████████████████░░░░░   80.63 %
+TOML              1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Python            1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Markdown          1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Other             55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
