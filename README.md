@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 October 2022 - To: 09 October 2022
+From: 03 October 2022 - To: 10 October 2022
 
-Total Time: 8 hrs 22 mins
+Total Time: 11 hrs 33 mins
 
-Rust         5 hrs 50 mins   ████████████████▓░░░░░░░░   66.57 %
-TOML         57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-SQL          24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Rust              8 hrs 46 mins   ██████████████████▒░░░░░░   73.89 %
+TOML              1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+SQL               24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Other             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
