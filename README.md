@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 October 2022 - To: 24 October 2022
+From: 18 October 2022 - To: 25 October 2022
 
-Total Time: 23 hrs 39 mins
+Total Time: 24 hrs 46 mins
 
-Rust              15 hrs 46 mins  ████████████████▓░░░░░░░░   66.24 %
-Python            3 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-TOML              2 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-YAML              54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Markdown          49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Other             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Rust              16 hrs 57 mins  █████████████████░░░░░░░░   67.93 %
+Python            4 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+TOML              2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Markdown          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+YAML              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+HTML              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
