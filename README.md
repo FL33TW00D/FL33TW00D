@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 October 2022 - To: 02 November 2022
+From: 27 October 2022 - To: 03 November 2022
 
-Total Time: 33 hrs 53 mins
+Total Time: 35 hrs 15 mins
 
-Rust              18 hrs 47 mins  █████████████▓░░░░░░░░░░░   54.90 %
-Markdown          9 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   28.13 %
-Python            2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-TOML              1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-SQL               37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Protocol Buffer   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Rust              21 hrs 50 mins  ███████████████▒░░░░░░░░░   61.25 %
+Markdown          9 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
+TOML              1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Python            59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+SQL               37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Other             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
