@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 November 2022 - To: 18 November 2022
+From: 14 November 2022 - To: 20 November 2022
 
-Total Time: 19 hrs 4 mins
+Total Time: 18 hrs 10 mins
 
-Rust              11 hrs 50 mins  ███████████████▒░░░░░░░░░   61.74 %
-Python            4 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.31 %
-Bash              1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-YAML              35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-wgsl              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-TOML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Rust              9 hrs 36 mins   █████████████▒░░░░░░░░░░░   52.72 %
+Python            6 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.59 %
+Bash              1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+YAML              35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+TOML              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Protocol Buffer   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
