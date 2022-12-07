@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 November 2022 - To: 04 December 2022
+From: 29 November 2022 - To: 05 December 2022
 
-Total Time: 29 hrs 55 mins
+Total Time: 30 hrs 26 mins
 
-Rust         13 hrs 47 mins  ███████████▒░░░░░░░░░░░░░   45.88 %
-wgsl         7 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.53 %
-TOML         4 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-Python       2 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-Markdown     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-YAML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Rust         14 hrs 59 mins  ████████████▒░░░░░░░░░░░░   49.06 %
+wgsl         7 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
+TOML         3 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Python       2 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Markdown     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+YAML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
