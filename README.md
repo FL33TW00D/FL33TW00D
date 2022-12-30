@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 December 2022 - To: 26 December 2022
+From: 22 December 2022 - To: 28 December 2022
 
-Total Time: 14 hrs 46 mins
+Total Time: 18 hrs 51 mins
 
-Rust        11 hrs 49 mins  ████████████████████░░░░░   79.55 %
-Python      2 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
-wgsl        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-gitignore   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Other       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Rust        13 hrs 56 mins  ██████████████████▒░░░░░░   73.88 %
+Python      3 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+wgsl        1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+gitignore   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+TOML        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
