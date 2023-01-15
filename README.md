@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 12 January 2023
+From: 07 January 2023 - To: 13 January 2023
 
-Total Time: 38 hrs 41 mins
+Total Time: 41 hrs 41 mins
 
-Rust              36 hrs 49 mins  ███████████████████████▓░   95.18 %
-Protocol Buffer   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Markdown          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-SQL               16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-TOML              11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-wgsl              8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Rust              40 hrs 9 mins   ████████████████████████░   96.32 %
+Protocol Buffer   49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+SQL               16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+TOML              12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Markdown          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Vim Script        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
