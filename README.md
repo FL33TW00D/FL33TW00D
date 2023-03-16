@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 March 2023 - To: 13 March 2023
+From: 08 March 2023 - To: 14 March 2023
 
-Total Time: 32 hrs 18 mins
+Total Time: 32 hrs 11 mins
 
-Rust              20 hrs 13 mins  ███████████████▓░░░░░░░░░   62.42 %
-TypeScript        4 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Python            3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-TOML              1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-gitignore         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-JSON              29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Rust              20 hrs          ███████████████▒░░░░░░░░░   61.65 %
+TypeScript        5 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
+Python            2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+TOML              1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+gitignore         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JSON              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
