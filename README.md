@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2023 - To: 02 April 2023
+From: 27 March 2023 - To: 03 April 2023
 
-Total Time: 39 hrs 31 mins
+Total Time: 36 hrs 52 mins
 
-Rust        35 hrs 46 mins  ██████████████████████▓░░   90.52 %
-wgsl        1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-CSV         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-YAML        32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-TOML        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-gitignore   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Rust         32 hrs 51 mins  ██████████████████████▒░░   89.11 %
+CSV          1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+TOML         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+wgsl         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+YAML         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
