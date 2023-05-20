@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2023 - To: 17 May 2023
+From: 11 May 2023 - To: 18 May 2023
 
-Total Time: 27 hrs 30 mins
+Total Time: 23 hrs
 
-Rust         15 hrs 38 mins  ██████████████▒░░░░░░░░░░   56.79 %
-wgsl         4 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-Python       2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-YAML         1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-TOML         1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Rust         12 hrs 51 mins  ██████████████░░░░░░░░░░░   55.84 %
+wgsl         4 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
+Python       2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+YAML         1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+TOML         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 ```
 
 <!--END_SECTION:waka-->
