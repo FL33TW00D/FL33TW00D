@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2023 - To: 03 June 2023
+From: 28 May 2023 - To: 04 June 2023
 
-Total Time: 27 hrs 35 mins
+Total Time: 31 hrs 23 mins
 
-Rust         15 hrs 6 mins   █████████████▓░░░░░░░░░░░   54.12 %
-Python       6 hrs 20 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
-TypeScript   3 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-wgsl         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-TOML         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Rust         13 hrs 49 mins  ███████████░░░░░░░░░░░░░░   43.55 %
+TypeScript   8 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.22 %
+Python       5 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+JSON         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+TOML         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
