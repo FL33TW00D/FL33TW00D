@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2023 - To: 20 July 2023
+From: 14 July 2023 - To: 21 July 2023
 
-Total Time: 31 hrs 56 mins
+Total Time: 28 hrs 2 mins
 
-Rust     22 hrs 11 mins  █████████████████▒░░░░░░░   69.41 %
-wgsl     8 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
-Python   1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-YAML     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-TOML     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Rust     18 hrs 20 mins  ████████████████▒░░░░░░░░   65.35 %
+wgsl     8 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+Python   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+YAML     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TOML     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
