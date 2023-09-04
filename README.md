@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 26 August 2023 - To: 02 September 2023
 
-Total Time: 17 hrs 48 mins
+Total Time: 18 hrs 35 mins
 
-Rust                      10 hrs 20 mins  ██████████████▓░░░░░░░░░░   58.03 %
-TSQL                      4 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
-WebGPU Shading Language   1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-ActionScript 3            1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-JavaScript                27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Rust                      12 hrs 46 mins  █████████████████▒░░░░░░░   68.72 %
+TSQL                      2 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+WebGPU Shading Language   2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+Python                    17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Makefile                  7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
