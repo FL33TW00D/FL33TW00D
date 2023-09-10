@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-Total Time: 32 hrs 51 mins
+Total Time: 32 hrs 45 mins
 
-Rust                      17 hrs 5 mins   █████████████░░░░░░░░░░░░   52.05 %
-TypeScript                6 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-WebGPU Shading Language   4 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-Python                    2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-TOML                      26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Rust                      14 hrs 30 mins  ███████████░░░░░░░░░░░░░░   44.26 %
+TypeScript                9 hrs 49 mins   ███████▓░░░░░░░░░░░░░░░░░   30.00 %
+WebGPU Shading Language   3 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Python                    2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+TOML                      51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
