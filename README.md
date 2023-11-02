@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2023 - To: 30 October 2023
+From: 24 October 2023 - To: 31 October 2023
 
-Total Time: 35 hrs 48 mins
+Total Time: 40 hrs 14 mins
 
-Rust                      22 hrs 25 mins  ███████████████▓░░░░░░░░░   62.62 %
-WebGPU Shading Language   7 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
-Python                    4 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-TOML                      42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Markdown                  9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Rust                      25 hrs 20 mins  ███████████████▓░░░░░░░░░   62.97 %
+WebGPU Shading Language   8 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+Python                    4 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+TOML                      39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+TypeScript                18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
