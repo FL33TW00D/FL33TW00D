@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2023 - To: 26 December 2023
+From: 21 December 2023 - To: 28 December 2023
 
-Total Time: 8 mins
+Total Time: 0 secs
 
-TypeScript   4 mins          █████████████▒░░░░░░░░░░░   53.44 %
-JSON         3 mins          ██████████▒░░░░░░░░░░░░░░   41.60 %
-Makefile     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
