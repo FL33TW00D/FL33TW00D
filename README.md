@@ -1,11 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 25 December 2023 - To: 31 December 2023
 
-Total Time: 0 secs
+Total Time: 37 mins
 
-No activity tracked
+Rust         31 mins         █████████████████████░░░░   84.13 %
+TypeScript   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Markdown     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
