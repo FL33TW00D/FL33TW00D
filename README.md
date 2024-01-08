@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2023 - To: 05 January 2024
+From: 31 December 2023 - To: 06 January 2024
 
-Total Time: 3 hrs 16 mins
+Total Time: 3 hrs 22 mins
 
-Rust         2 hrs 36 mins   ████████████████████░░░░░   79.71 %
-Markdown     22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-TOML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Metal        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Rust       2 hrs 46 mins   ████████████████████▓░░░░   82.00 %
+Markdown   22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+TOML       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Metal      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
