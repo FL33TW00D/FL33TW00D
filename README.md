@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2024 - To: 12 January 2024
+From: 07 January 2024 - To: 13 January 2024
 
-Total Time: 1 hr 30 mins
+Total Time: 1 hr 52 mins
 
-Vim Script   53 mins         ███████████████░░░░░░░░░░   59.44 %
-Bash         19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
-Rust         10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-Python       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Vim Script   53 mins         ████████████░░░░░░░░░░░░░   47.85 %
+Rust         32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.25 %
+Bash         19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+Python       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
