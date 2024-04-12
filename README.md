@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2024 - To: 09 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Total Time: 32 hrs 46 mins
+Total Time: 28 hrs 47 mins
 
-Rust                      24 hrs 25 mins  ██████████████████▓░░░░░░   74.17 %
-WebGPU Shading Language   5 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-Python                    1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-TOML                      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Other                     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Rust                      20 hrs 57 mins  ██████████████████▒░░░░░░   72.81 %
+WebGPU Shading Language   6 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
+Python                    57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+TOML                      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+YAML                      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
