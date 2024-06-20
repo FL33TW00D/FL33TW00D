@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2024 - To: 17 June 2024
+From: 11 June 2024 - To: 18 June 2024
 
-Total Time: 17 hrs 32 mins
+Total Time: 22 hrs 31 mins
 
-Rust        14 hrs 12 mins  ████████████████████░░░░░   80.45 %
-Python      2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Markdown    28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Swift       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-TOML        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Rust                      19 hrs 26 mins  █████████████████████▓░░░   86.34 %
+Python                    1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+Markdown                  28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Swift                     21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+sshconfig                 6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
