@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2024 - To: 07 July 2024
+From: 01 July 2024 - To: 08 July 2024
 
-Total Time: 25 hrs 15 mins
+Total Time: 20 hrs 51 mins
 
-Rust                      19 hrs 46 mins  ███████████████████▓░░░░░   78.25 %
-Svelte                    2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Markdown                  48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Python                    35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-TOML                      32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Rust                      15 hrs 7 mins   ██████████████████░░░░░░░   72.51 %
+Markdown                  2 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+Svelte                    1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Python                    35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+TypeScript                26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
