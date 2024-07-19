@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2024 - To: 16 July 2024
+From: 10 July 2024 - To: 17 July 2024
 
-Total Time: 10 hrs 15 mins
+Total Time: 6 hrs 58 mins
 
-MDX          5 hrs 36 mins   █████████████▒░░░░░░░░░░░   53.67 %
-Python       1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-TypeScript   1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-Swift        1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+MDX          3 hrs 40 mins   █████████████░░░░░░░░░░░░   51.43 %
+Swift        1 hr 22 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+TypeScript   1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Python       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
