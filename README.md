@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2024 - To: 31 July 2024
+From: 26 July 2024 - To: 02 August 2024
 
-Total Time: 8 hrs 17 mins
+Total Time: 8 hrs 33 mins
 
-YAML                      4 hrs 17 mins   █████████████░░░░░░░░░░░░   51.66 %
-Rust                      1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
-Python                    54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Text                      20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-TOML                      20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+YAML         5 hrs 11 mins   ███████████████░░░░░░░░░░   60.52 %
+Rust         1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Python       58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Text         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+TOML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
