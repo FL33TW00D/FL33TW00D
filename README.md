@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2024 - To: 11 August 2024
+From: 05 August 2024 - To: 12 August 2024
 
-Total Time: 45 mins
+Total Time: 3 hrs 2 mins
 
-Rust       21 mins         ████████████░░░░░░░░░░░░░   48.28 %
-Python     10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.81 %
-MDX        3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-Lua        3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Markdown   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Rust         2 hrs 11 mins   ██████████████████░░░░░░░   72.26 %
+YAML         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Markdown     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Python       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+gitignore    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
