@@ -1,12 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2024 - To: 25 August 2024
+From: 20 August 2024 - To: 27 August 2024
 
-Total Time: 4 hrs 22 mins
+Total Time: 4 hrs 12 mins
 
-Python        4 hrs 22 mins   █████████████████████████   99.96 %
-Image (png)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   3 hrs 59 mins   ███████████████████████▒░   93.44 %
+Rust     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Other    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
