@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2024 - To: 08 September 2024
+From: 02 September 2024 - To: 09 September 2024
 
-Total Time: 4 hrs 58 mins
+Total Time: 5 hrs 1 min
 
-Python      3 hrs 20 mins   ████████████████▒░░░░░░░░   65.77 %
-Rust        1 hr 27 mins    ███████▒░░░░░░░░░░░░░░░░░   28.71 %
-Other       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-gitignore   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-C++         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Rust         2 hrs 30 mins   ████████████▒░░░░░░░░░░░░   48.80 %
+Python       1 hr 13 mins    ██████░░░░░░░░░░░░░░░░░░░   23.77 %
+Lua          30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Vim Script   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
