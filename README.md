@@ -1,13 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 27 September 2024
+From: 21 September 2024 - To: 28 September 2024
 
-Total Time: 29 mins
+Total Time: 23 mins
 
-Python     22 mins         ███████████████████▓░░░░░   78.03 %
-Rust       5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
-Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Python   22 mins         ████████████████████████▓   99.06 %
+Rust     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
