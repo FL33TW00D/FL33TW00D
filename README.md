@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2024 - To: 10 October 2024
+From: 04 October 2024 - To: 11 October 2024
 
-Total Time: 9 hrs 5 mins
+Total Time: 10 hrs 50 mins
 
-Python       3 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   38.09 %
-MDX          3 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.72 %
-Rust         49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-C++          47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-TypeScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Python          6 hrs 13 mins   ██████████████▒░░░░░░░░░░   57.46 %
+MDX             3 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   29.09 %
+TOML            31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+TypeScript      21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+JavaScript      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
