@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2024 - To: 14 October 2024
+From: 08 October 2024 - To: 15 October 2024
 
-Total Time: 10 hrs 16 mins
+Total Time: 7 hrs 19 mins
 
-Python          6 hrs 13 mins   ███████████████░░░░░░░░░░   60.63 %
-MDX             3 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.69 %
-TOML            31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Text            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-gitignore       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Python          6 hrs 13 mins   █████████████████████▒░░░   84.93 %
+TOML            31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+MDX             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Text            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+gitignore       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
