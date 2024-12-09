@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2024 - To: 06 December 2024
+From: 02 December 2024 - To: 08 December 2024
 
-Total Time: 12 hrs 22 mins
+Total Time: 11 hrs 42 mins
 
-Python      8 hrs 24 mins   █████████████████░░░░░░░░   67.68 %
-MDX         1 hr 51 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
-Markdown    1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-sh          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-TOML        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Python      8 hrs 22 mins   ██████████████████░░░░░░░   71.34 %
+MDX         1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Markdown    44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+TOML        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+sh          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
