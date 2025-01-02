@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 30 December 2024
+From: 25 December 2024 - To: 31 December 2024
 
-Total Time: 21 mins
+Total Time: 48 mins
 
-JSON     9 mins          ███████████▓░░░░░░░░░░░░░   46.70 %
-Python   8 mins          █████████▒░░░░░░░░░░░░░░░   37.68 %
-conf     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-Bash     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-MDX      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+JSON     14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.41 %
+Python   12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
+MDX      10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
+conf     9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.90 %
+Bash     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
