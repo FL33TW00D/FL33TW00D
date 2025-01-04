@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2024 - To: 01 January 2025
+From: 28 December 2024 - To: 03 January 2025
 
-Total Time: 1 hr 14 mins
+Total Time: 2 hrs 40 mins
 
-Python     34 mins         ███████████▓░░░░░░░░░░░░░   46.30 %
-JSON       14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
-MDX        10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-conf       9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-Markdown   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Zig        1 hr 7 mins     ██████████░░░░░░░░░░░░░░░   40.49 %
+Python     30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
+Lua        21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+JSON       14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+MDX        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
 <!--END_SECTION:waka-->
