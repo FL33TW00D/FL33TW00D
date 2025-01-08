@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2024 - To: 05 January 2025
+From: 31 December 2024 - To: 06 January 2025
 
-Total Time: 6 hrs 25 mins
+Total Time: 8 hrs 40 mins
 
-TypeScript   2 hrs 26 mins   █████████▒░░░░░░░░░░░░░░░   37.42 %
-Zig          1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-MDX          57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-CSS          31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Python       30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+MDX          2 hrs 55 mins   ████████▒░░░░░░░░░░░░░░░░   33.37 %
+TypeScript   2 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   28.32 %
+Zig          1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+CSS          41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Python       41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
 ```
 
 <!--END_SECTION:waka-->
