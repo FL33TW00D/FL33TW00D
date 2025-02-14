@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 11 February 2025
+From: 06 February 2025 - To: 12 February 2025
 
-Total Time: 17 hrs 20 mins
+Total Time: 16 hrs 47 mins
 
-MDX          10 hrs 12 mins  ██████████████▓░░░░░░░░░░   58.43 %
-Rust         2 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-TypeScript   2 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
-Python       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-C            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+MDX          10 hrs 23 mins  ███████████████▒░░░░░░░░░   61.37 %
+TypeScript   2 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+Swift        2 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Python       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+YAML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
