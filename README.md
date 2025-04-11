@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2025 - To: 08 April 2025
+From: 02 April 2025 - To: 09 April 2025
 
-Total Time: 11 hrs 3 mins
+Total Time: 8 hrs 20 mins
 
-TypeScript   5 hrs 28 mins   ████████████▒░░░░░░░░░░░░   49.47 %
-Python       4 hrs           █████████░░░░░░░░░░░░░░░░   36.13 %
-TOML         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-SQL          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+TypeScript   5 hrs 1 min     ███████████████░░░░░░░░░░   60.07 %
+Python       1 hr 52 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
+TOML         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Text         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Makefile     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
