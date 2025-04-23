@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2025 - To: 20 April 2025
+From: 15 April 2025 - To: 22 April 2025
 
-Total Time: 11 hrs 20 mins
+Total Time: 7 hrs 56 mins
 
-Python       7 hrs 42 mins   █████████████████░░░░░░░░   67.78 %
-C++          1 hr 58 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-MDX          53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Lua          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-CSV          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Python       5 hrs 13 mins   ████████████████▒░░░░░░░░   65.61 %
+C++          1 hr 58 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
+TypeScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Lua          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+CMake        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
