@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 28 April 2025
+From: 23 April 2025 - To: 30 April 2025
 
-Total Time: 16 hrs 26 mins
+Total Time: 16 hrs 19 mins
 
-TypeScript    9 hrs 55 mins   ███████████████░░░░░░░░░░   60.16 %
-Python        3 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   24.09 %
-MDX           1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Makefile      29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-CSS           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+TypeScript    9 hrs 2 mins    ██████████████░░░░░░░░░░░   55.38 %
+MDX           3 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
+Python        2 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+CSS           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JSON          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
