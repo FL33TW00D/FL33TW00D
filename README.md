@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 23 June 2025
+From: 18 June 2025 - To: 25 June 2025
 
-Total Time: 24 hrs 22 mins
+Total Time: 24 hrs 38 mins
 
-Python      21 hrs 51 mins  ██████████████████████░░░   88.49 %
-MDX         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-JSON        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Text        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Other       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Python      21 hrs 45 mins  █████████████████████▓░░░   86.88 %
+MDX         1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Text        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Other       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+TOML        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
