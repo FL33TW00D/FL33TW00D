@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2025 - To: 07 July 2025
+From: 01 July 2025 - To: 08 July 2025
 
-Total Time: 18 hrs 41 mins
+Total Time: 21 hrs 34 mins
 
-MDX          7 hrs 17 mins   █████████▓░░░░░░░░░░░░░░░   38.80 %
-Python       7 hrs 14 mins   █████████▓░░░░░░░░░░░░░░░   38.55 %
-Markdown     2 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
-sshconfig    20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-YAML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Python       9 hrs 47 mins   ███████████▒░░░░░░░░░░░░░   44.91 %
+MDX          7 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.43 %
+Markdown     2 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+Text         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+sshconfig    20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
