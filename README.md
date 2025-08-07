@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2025 - To: 04 August 2025
+From: 29 July 2025 - To: 05 August 2025
 
-Total Time: 2 hrs 46 mins
+Total Time: 3 hrs 9 mins
 
-Swift    1 hr 53 mins    █████████████████░░░░░░░░   67.86 %
-Python   43 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
-YAML     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Bash     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Swift    1 hr 53 mins    ███████████████░░░░░░░░░░   59.93 %
+Python   1 hr 3 mins     ████████▒░░░░░░░░░░░░░░░░   33.64 %
+YAML     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Bash     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+TOML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
