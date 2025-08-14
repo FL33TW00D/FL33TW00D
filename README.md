@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2025 - To: 11 August 2025
+From: 05 August 2025 - To: 12 August 2025
 
-Total Time: 13 hrs 36 mins
+Total Time: 16 hrs 26 mins
 
-Python     9 hrs 44 mins   █████████████████▓░░░░░░░   71.15 %
-Swift      1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-TOML       1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Rust       37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-CSV        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Python     12 hrs 1 min    ██████████████████▒░░░░░░   72.75 %
+TOML       1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Swift      1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Rust       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+CSV        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->
