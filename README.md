@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-Total Time: 21 hrs 28 mins
+Total Time: 23 hrs 39 mins
 
-Python      17 hrs 2 mins   ███████████████████▒░░░░░   77.84 %
-MDX         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-TOML        1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Markdown    28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Other       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Python      19 hrs 6 mins   ███████████████████▓░░░░░   78.71 %
+TOML        1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+MDX         1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Other       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Markdown    28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
