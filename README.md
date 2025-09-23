@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2025 - To: 20 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
-Total Time: 27 hrs 23 mins
+Total Time: 24 hrs 7 mins
 
-Python      20 hrs 56 mins  ███████████████████░░░░░░   76.37 %
-Markdown    2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Makefile    1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-TOML        1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Swift       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Python      15 hrs 32 mins  ████████████████░░░░░░░░░   64.34 %
+MDX         2 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Markdown    1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Makefile    1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+TOML        1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 ```
 
 <!--END_SECTION:waka-->
