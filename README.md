@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2025 - To: 30 September 2025
+From: 25 September 2025 - To: 02 October 2025
 
-Total Time: 22 hrs 4 mins
+Total Time: 11 hrs 36 mins
 
-Python        18 hrs 3 mins   ████████████████████▒░░░░   81.16 %
-TOML          2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-MDX           53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Markdown      28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-gitignore     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Python      8 hrs 47 mins   ██████████████████▓░░░░░░   74.69 %
+TOML        1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Markdown    32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+MDX         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Other       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
