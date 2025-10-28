@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2025 - To: 25 October 2025
+From: 19 October 2025 - To: 26 October 2025
 
-Total Time: 1 hr 57 mins
+Total Time: 24 mins
 
-Python       1 hr 17 mins    ████████████████▒░░░░░░░░   65.89 %
-MDX          36 mins         ███████▓░░░░░░░░░░░░░░░░░   31.08 %
-gitignore    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-conf         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Python      14 mins         ██████████████▒░░░░░░░░░░   57.11 %
+ghostty     4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
+gitignore   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+MDX         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+YAML        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
