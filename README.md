@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2025 - To: 07 December 2025
+From: 02 December 2025 - To: 08 December 2025
 
-Total Time: 7 hrs 58 mins
+Total Time: 12 hrs 37 mins
 
-MDX          6 hrs 19 mins   ████████████████████░░░░░   79.44 %
-Python       1 hr 18 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-TypeScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+MDX          8 hrs 25 mins   ████████████████▓░░░░░░░░   66.79 %
+Python       3 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
+TypeScript   42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
