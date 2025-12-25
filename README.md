@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 22 December 2025
+From: 17 December 2025 - To: 23 December 2025
 
-Total Time: 1 hr 9 mins
+Total Time: 1 hr 4 mins
 
-Python      36 mins         ████████████▒░░░░░░░░░░░░   49.99 %
-MDX         21 mins         ███████▒░░░░░░░░░░░░░░░░░   29.16 %
-sh          6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-TOML        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Other       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Python      40 mins         ███████████████░░░░░░░░░░   59.37 %
+MDX         12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
+sh          6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+TOML        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Other       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
