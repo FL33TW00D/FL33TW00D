@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 28 December 2025
+From: 24 December 2025 - To: 30 December 2025
 
-Total Time: 34 mins
+Total Time: 16 mins
 
-Python   31 mins         ███████████████████████░░   92.09 %
-MDX      2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
