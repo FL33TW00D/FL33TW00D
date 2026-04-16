@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2026 - To: 13 April 2026
+From: 07 April 2026 - To: 14 April 2026
 
-Total Time: 4 hrs 52 mins
+Total Time: 4 hrs 56 mins
 
-MDX          4 hrs 28 mins         ███████████████████████░░   91.94 %
-TypeScript   20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Python       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+MDX          4 hrs 32 mins         ███████████████████████░░   92.05 %
+TypeScript   20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Python       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 Lua          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
