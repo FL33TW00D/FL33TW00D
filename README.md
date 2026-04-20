@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2026 - To: 17 April 2026
+From: 12 April 2026 - To: 19 April 2026
 
-Total Time: 4 hrs 56 mins
+Total Time: 3 hrs 37 mins
 
-MDX          3 hrs 11 mins         ████████████████▒░░░░░░░░   64.72 %
-Python       1 hr 14 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
-TypeScript   19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Public Key   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-TOML         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+MDX          1 hr 56 mins          █████████████▒░░░░░░░░░░░   53.44 %
+Python       1 hr 12 mins          ████████▒░░░░░░░░░░░░░░░░   33.21 %
+TypeScript   19 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+Public Key   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+TOML         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
