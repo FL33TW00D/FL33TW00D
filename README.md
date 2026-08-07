@@ -1,14 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2026 - To: 04 August 2026
+From: 30 July 2026 - To: 06 August 2026
 
-Total Time: 30 mins
+Total Time: 1 hr 40 mins
 
-D2           20 mins               █████████████████░░░░░░░░   68.63 %
-TypeScript   6 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
-conf         2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Python       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Python       51 mins               ████████████░░░░░░░░░░░░░   48.43 %
+D2           20 mins               █████░░░░░░░░░░░░░░░░░░░░   19.47 %
+MDX          15 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
+TypeScript   10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+Other        6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
 
 <!--END_SECTION:waka-->
