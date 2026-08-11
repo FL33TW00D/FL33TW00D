@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2026 - To: 08 August 2026
+From: 02 August 2026 - To: 09 August 2026
 
-Total Time: 1 hr 10 mins
+Total Time: 4 hrs 1 min
 
-Python       51 mins               ████████████████▓░░░░░░░░   67.02 %
-MDX          15 mins               █████░░░░░░░░░░░░░░░░░░░░   19.90 %
-Other        6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-TypeScript   3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-TOML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python       3 hrs 37 mins         █████████████████████▓░░░   87.10 %
+MDX          15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Other        7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Lua          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+TypeScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
